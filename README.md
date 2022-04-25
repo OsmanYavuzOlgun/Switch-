@@ -13,5 +13,4 @@ Hasan Taşpolat
  3. It uses API level of 29 on Android
  4. All code downloaded is free to use and you can freely take insprations.
 
-
 2021.
